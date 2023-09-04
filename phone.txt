@@ -2,3 +2,6 @@ phone
 
 screentouch
 scratchless-gorilla glass
+
+fast charging
+wireless charging
